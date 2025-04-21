@@ -47,50 +47,51 @@ const Episodes = () => {
     {
       id: 1,
       title: "Everything out of Syllabus with Varun Duggirala",
-      date: "January 03, 2023",
+      date: "January 21, 2023",
       duration: "45 mins",
       description: "Varun co-founded 'The Glitch' and helped it become India’s largest new-age, ‘digital-first’ creative agency.",
       youtubeId: "CCpFfNk4BhU"
     },
     {
       id: 2,
-      title: "The Art of Deep Work in a Distracted World",
-      date: "May 8, 2025",
-      duration: "55 min",
-      description: "Discover practical strategies for achieving focused work and maximizing productivity in today's constantly connected environment.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "There's no shortcut to success",
+      date: "April 17, 2024",
+      duration: "5 mins",
+      description: " I talk about how success can not be achieved with shortcuts. How important hard work is and how important excellence is. It's all a choice afterall.",
+      youtubeId: "kHZ0qj2O_UU"
     },
     {
       id: 3,
-      title: "Authentic Leadership: Leading with Purpose",
-      date: "May 1, 2025",
-      duration: "62 min",
-      description: "Explore the principles of authentic leadership and learn how to inspire teams while staying true to your values.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "Live Life Better One Day At A Time with Monyputhy Ly (Johnny)",
+      date: "May 1, 2023",
+      duration: "46 mins",
+      description: "Johnny is a top Educational Podcaster from Cambodia. Growing up, nothing stressed Monyputhy other than trying to live up to the name imprinted to him, 'Puthy', which means knowledge.",
+      youtubeId: "sSOyUV3vJws"
     },
     {
       id: 4,
-      title: "The Power of Mindful Decision Making",
-      date: "April 24, 2025",
-      duration: "45 min",
-      description: "Learn how to make better decisions by incorporating mindfulness practices into your decision-making process.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "Habits, Experiences, Learning & Productivity with Scott Young",
+      date: "April 19, 2023",
+      duration: "45 mins",
+      description: "Scott H Young, a Wall Street Journal bestselling author, podcast host, computer programmer and an avid reader.",
+      youtubeId: "5q6-tItFJd0"
     },
     {
+      
       id: 5,
-      title: "Building Strong Professional Relationships",
-      date: "April 17, 2025",
-      duration: "58 min",
-      description: "Discover the key principles of networking and building lasting professional relationships in today's digital age.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "Winning Your Inner Battles with Darius Foroux",
+      date: "January 1, 2023",
+      duration: "43 mins",
+      description:"Darius Foroux, the author of 7 books and the creator of 6 online courses. He writes about productivity, business, and wealth building.",
+      youtubeId: "TeuBXL8oh3w"
     },
     {
       id: 6,
-      title: "Mastering Work-Life Integration",
-      date: "April 10, 2025",
-      duration: "51 min",
-      description: "Learn strategies for creating a harmonious balance between your professional and personal life in the modern workplace.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "Focussing on today only",
+      date: "April 10, 2024",
+      duration: "5 mins",
+      description: "I talk about my learning from the book 'Do it today' and some tips on how you can make stuff happen rather than stuff happening to you without your control.",
+      youtubeId: "EOvPh_SFQ8s"
     }
   ];
 
