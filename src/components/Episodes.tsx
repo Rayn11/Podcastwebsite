@@ -46,11 +46,11 @@ const Episodes = () => {
   const episodes: Episode[] = [
     {
       id: 1,
-      title: "Building Resilience: Overcoming Career Setbacks",
-      date: "May 15, 2025",
-      duration: "48 min",
-      description: "Learn how to bounce back from career setbacks and turn challenges into opportunities for growth and success.",
-      youtubeId: "dQw4w9WgXcQ"
+      title: "Everything out of Syllabus with Varun Duggirala",
+      date: "January 03, 2023",
+      duration: "45 mins",
+      description: "Varun co-founded 'The Glitch' and helped it become India’s largest new-age, ‘digital-first’ creative agency.",
+      youtubeId: "CCpFfNk4BhU"
     },
     {
       id: 2,
