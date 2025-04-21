@@ -113,7 +113,7 @@ const Episodes = () => {
         
         <div className="flex justify-center gap-4 mt-12">
           <a
-            href="https://www.youtube.com/@WhateverMatters"
+            href="https://www.youtube.com/@whatevermatterspodcast"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-red-600 text-white rounded-full font-medium hover:bg-red-700 transition duration-300"
@@ -122,7 +122,7 @@ const Episodes = () => {
             Watch on YouTube
           </a>
           <a
-            href="https://open.spotify.com/show/WhateverMatters"
+            href="https://open.spotify.com/show/3Wbw6mllbAJhZT8SeAcdc2"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-[#1DB954] text-white rounded-full font-medium hover:bg-[#1ed760] transition duration-300"
